@@ -28,6 +28,6 @@ My name is Jackson and I'm mostly a backend developer.
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/peding-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;
